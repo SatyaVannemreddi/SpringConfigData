@@ -1,5 +1,6 @@
 ---
-firstName: Satya
-LastName: Vannem
-city: Irving
-country: USA
+person:
+   FirstName: Satya
+   LastName: Vannem
+   City: Irving
+   State: TX
